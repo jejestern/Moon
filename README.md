@@ -9,5 +9,6 @@ Secondly we go through pixel_converter.ipynb. This script provides us with the c
 As a last step we want to calculate the real diameters and depths and create some plots. For this we use the scripts 
 Diameter_Depth_12mm.ipynb and Diameter_Depth_20mm.ipynb as they name already tells, you use either one of them depending on the 
 magnification your images have. This scripts uses the functions from the script Diameter_Depth_functions.ipynb.
+Additionally we have written two scripts. 'Histograms.ipynb' creates histograms of the diameters and depths for each data set and 'contour.py' where a contour plot of the diameters plotted against the depths for all data is done. 
 
 At the end we find the diameters and the depths of all craters and their position on the Moon.
